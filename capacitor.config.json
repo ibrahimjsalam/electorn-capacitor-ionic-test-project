@@ -1,0 +1,8 @@
+{
+  "appId": "com.ali",
+  "appName": "fef",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
